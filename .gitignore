@@ -1,0 +1,24 @@
+# BEGIN Lens Studio managed Agents-Docs block
+.mcp.json
+.cursor/mcp.json
+.vscode/mcp.json
+.codex/config.toml
+.claude/settings.local.json
+# END Lens Studio managed Agents-Docs block
+
+# Added by Lens Studio (LEAF plugin)
+leaf_plugin_settings.json
+
+# Generated / local-only
+Cache/
+Workspaces/
+PluginsUserPreferences/
+Support/
+*.lock
+.DS_Store
+.virtual-scene.json
+# Secrets: never publish
+spk_debug_key.pem
+*.pem
+# Local backups
+_backup_scripts_antes_incisee_*/
